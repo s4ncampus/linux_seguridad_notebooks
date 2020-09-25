@@ -1,0 +1,4 @@
+kpcli
+keepassxc
+libcrack2
+cracklib-runtime
